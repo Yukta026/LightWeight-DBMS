@@ -1,0 +1,4 @@
+1|[9e745560-5f70-4fe6-a5cd-fae1c9e801be, Sun Feb 25 18:15:28 AST 2024]
+Query 1 - CREATE TABLE table1 (a int, b int);
+Query Data1 - Table: table1
+Query Data2 - Columns: [a int,  b int]
